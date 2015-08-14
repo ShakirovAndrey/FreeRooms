@@ -1,0 +1,42 @@
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\bin\Release\Курсовая работа.exe.config
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\bin\Release\Курсовая работа.exe
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\bin\Release\Курсовая работа.pdb
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\Курсовая работа.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\MainWindow.baml
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\Window1.baml
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\Window2.baml
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\Window3.baml
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\MainWindow.g.cs
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\Window1.g.cs
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\Window2.g.cs
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\Window3.g.cs
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\App.g.cs
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\Курсовая работа_MarkupCompile.cache
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\Курсовая работа.g.resources
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\Курсовая_работа.Properties.Resources.resources
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\Курсовая работа.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\Курсовая работа.exe
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\Курсовая работа.pdb
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\Window4.baml
+C:\Users\1\Desktop\лабороторная работа\Курсовая работа\Курсовая работа\obj\Release\Window4.g.cs
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\bin\Release\Курсовая работа.exe.config
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\Курсовая работа.exe
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\Курсовая работа.pdb
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\bin\Release\Курсовая работа.exe
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\bin\Release\Курсовая работа.pdb
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\Курсовая работа.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\MainWindow.baml
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\Window1.baml
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\Window2.baml
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\Window3.baml
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\Window4.baml
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\MainWindow.g.cs
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\Window1.g.cs
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\Window2.g.cs
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\Window3.g.cs
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\Window4.g.cs
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\App.g.cs
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\Курсовая работа_MarkupCompile.cache
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\Курсовая работа.g.resources
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\Курсовая_работа.Properties.Resources.resources
+C:\Users\1\Dropbox\курсовые\курсовая по программированию\Курсовая работа\Курсовая работа\obj\Release\Курсовая работа.csproj.GenerateResource.Cache

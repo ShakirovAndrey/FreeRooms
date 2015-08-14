@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Курсовая_работа.App">
+    <Position X="38.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа.nomerakabinetov">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа.MainWindow">
+    <Position X="36.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIFAAEQAAAAAAAAAAAAAgAEQQEEAABIgIAAAAAAABA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа.setup">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACCAAAAAAAAAIABAAAAA+AAAAACCAAAACAAAAAA=</HashCode>
+      <FileName>setup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа.Window1">
+    <Position X="34.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Window1.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа.Window2">
+    <Position X="34.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAEAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Window2.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа.Window3">
+    <Position X="34.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgIAAAAgAEAAAwAAEEAAIAAAAAAAAAAgEACARAAAAQA=</HashCode>
+      <FileName>Window3.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа.Window4">
+    <Position X="34.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAAAAQCAEAAAAAAEAAAAAAAAAAAAAAAAMCABAQAAQA=</HashCode>
+      <FileName>Window4.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа.Window5">
+    <Position X="36.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Window5.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа.Window6">
+    <Position X="36.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAEAAAQA=</HashCode>
+      <FileName>Window6.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа.Properties.Resources">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_работа.Properties.Settings">
+    <Position X="15.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Window">
+    <Position X="32.5" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Controls.ContentControl">
+    <Position X="30.75" Y="1" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Controls.Control">
+    <Position X="29" Y="1" Width="1.5" />
+    <InheritanceLine Type="System.Windows.FrameworkElement" FixedFromPoint="true">
+      <Path>
+        <Point X="27.812" Y="27.621" />
+        <Point X="27.812" Y="27.748" />
+        <Point X="28.877" Y="27.748" />
+        <Point X="28.877" Y="5.948" />
+        <Point X="29" Y="5.948" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.FrameworkElement">
+    <Position X="27.25" Y="1" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Application">
+    <Position X="22" Y="1" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Object">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Configuration.ApplicationSettingsBase">
+    <Position X="13" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.UIElement">
+    <Position X="25.5" Y="1" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Media.Visual">
+    <Position X="23.75" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.DependencyObject">
+    <Position X="20" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Threading.DispatcherObject">
+    <Position X="20" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Configuration.SettingsBase">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

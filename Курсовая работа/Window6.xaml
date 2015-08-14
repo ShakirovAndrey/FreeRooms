@@ -1,0 +1,34 @@
+﻿<Window x:Class="Курсовая_работа.Window6"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         Title="настройки" Height="461.147" Width="407.028" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow" >
+    <Grid Margin="0,0,1,0">
+        <Label Content="Укажите количество существующих курсов в университете" HorizontalAlignment="Left" Margin="25,18,0,0" VerticalAlignment="Top" Width="340" />
+        <RadioButton x:Name="RadioButton1" Content="1 курс" HorizontalAlignment="Left" Margin="30,57,0,0" VerticalAlignment="Top" Click="RB1"/>
+        <RadioButton x:Name="RadioButton2" Content="2 курса" HorizontalAlignment="Left" Margin="100,57,0,0" VerticalAlignment="Top" Click="RB2"/>
+        <RadioButton x:Name="RadioButton3" Content="3 курса" HorizontalAlignment="Left" Margin="170,57,0,0" VerticalAlignment="Top" Click="RB3"/>
+        <RadioButton x:Name="RadioButton4" Content="4 курса" HorizontalAlignment="Left" Margin="240,57,0,0" VerticalAlignment="Top" Click="RB4"/>
+        <RadioButton x:Name="RadioButton5" Content="5 курсов" HorizontalAlignment="Left" Margin="308,57,0,0" VerticalAlignment="Top" Click="RB5" />
+        <TextBox x:Name="TextBox11" HorizontalAlignment="Left" Text="1 курс 1 неделя" Height="23" Margin="41,88,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="311" Opacity="0.995" IsEnabled="False"   />
+        <TextBox x:Name="TextBox12" HorizontalAlignment="Left" Text="1 курс 2 неделя" Height="23" Margin="41,117,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="311" Opacity="0.995" IsEnabled="False" />
+        <TextBox x:Name="TextBox21" HorizontalAlignment="Left" Text="2 курс 1 неделя" Height="23" Margin="41,148,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="311" Opacity="0.995" IsEnabled="False" />
+        <TextBox x:Name="TextBox22" HorizontalAlignment="Left" Text="2 курс 2 неделя" Height="23" Margin="41,177,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="311" Opacity="0.995" IsEnabled="False" />
+        <TextBox x:Name="TextBox31" HorizontalAlignment="Left" Text="3 курс 1 неделя" Height="23" Margin="41,205,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="311" Opacity="0.995" IsEnabled="False" />
+        <TextBox x:Name="TextBox32" HorizontalAlignment="Left" Text="3 курс 2 неделя" Height="23" Margin="41,234,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="311" Opacity="0.995" IsEnabled="False" />
+        <TextBox x:Name="TextBox41" HorizontalAlignment="Left" Text="4 курс 1 неделя" Height="23" Margin="41,263,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="311" Opacity="0.995" IsEnabled="False" />
+        <TextBox x:Name="TextBox42" HorizontalAlignment="Left" Text="4 курс 2 неделя" Height="23" Margin="41,292,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="311" Opacity="0.995" IsEnabled="False" />
+        <TextBox x:Name="TextBox51" HorizontalAlignment="Left" Text="5 курс 1 неделя" Height="23" Margin="41,322,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="311" Opacity="0.995" IsEnabled="False" />
+        <TextBox x:Name="TextBox52" HorizontalAlignment="Left" Text="5 курс 2 неделя" Height="23" Margin="41,352,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="311" Opacity="0.995" IsEnabled="False" />
+        <Button Content="ok" HorizontalAlignment="Left" Margin="159,388,0,0" VerticalAlignment="Top" Width="75" Click="ok"/>
+        <Ellipse x:Name="e1" Fill="#FFFD2604" HorizontalAlignment="Left" Height="15" Stroke="Black" VerticalAlignment="Top" Width="15" Margin="363,91,0,0" RenderTransformOrigin="0.467,0.467" Visibility="Collapsed" />
+        <Ellipse x:Name="e2" Fill="#FFFD2604" HorizontalAlignment="Left" Height="15" Stroke="Black" VerticalAlignment="Top" Width="15" Margin="363,120,0,0" RenderTransformOrigin="0.467,0.467" Visibility="Collapsed" />
+        <Ellipse x:Name="e3" Fill="#FFFD2604" HorizontalAlignment="Left" Height="15" Stroke="Black" VerticalAlignment="Top" Width="15" Margin="363,152,0,0" RenderTransformOrigin="0.467,0.467" Visibility="Collapsed"/>
+        <Ellipse x:Name="e4" Fill="#FFFD2604" HorizontalAlignment="Left" Height="15" Stroke="Black" VerticalAlignment="Top" Width="15" Margin="363,181,0,0" RenderTransformOrigin="0.467,0.467" Visibility="Collapsed"/>
+        <Ellipse x:Name="e5" Fill="#FFFD2604" HorizontalAlignment="Left" Height="15" Stroke="Black" VerticalAlignment="Top" Width="15" Margin="363,210,0,0" RenderTransformOrigin="0.467,0.467" Visibility="Collapsed"/>
+        <Ellipse x:Name="e6" Fill="#FFFD2604" HorizontalAlignment="Left" Height="15" Stroke="Black" VerticalAlignment="Top" Width="15" Margin="363,239,0,0" RenderTransformOrigin="0.467,0.467" Visibility="Collapsed"/>
+        <Ellipse x:Name="e7" Fill="#FFFD2604" HorizontalAlignment="Left" Height="15" Stroke="Black" VerticalAlignment="Top" Width="15" Margin="363,268,0,0" RenderTransformOrigin="0.467,0.467" Visibility="Collapsed"/>
+        <Ellipse x:Name="e8" Fill="#FFFD2604" HorizontalAlignment="Left" Height="15" Stroke="Black" VerticalAlignment="Top" Width="15" Margin="363,298,0,0" RenderTransformOrigin="0.467,0.467" Visibility="Collapsed"/>
+        <Ellipse x:Name="e9" Fill="#FFFD2604" HorizontalAlignment="Left" Height="15" Stroke="Black" VerticalAlignment="Top" Width="15" Margin="363,327,0,0" RenderTransformOrigin="0.467,0.467" Visibility="Collapsed"/>
+        <Ellipse x:Name="e10" Fill="#FFFD2604" HorizontalAlignment="Left" Height="15" Stroke="Black" VerticalAlignment="Top" Width="15" Margin="363,356,0,0" RenderTransformOrigin="0.467,0.467" Visibility="Collapsed"/>
+    </Grid>
+</Window>

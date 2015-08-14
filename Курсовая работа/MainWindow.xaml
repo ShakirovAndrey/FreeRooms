@@ -1,0 +1,30 @@
+﻿<Window x:Class="Курсовая_работа.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+          Title="свободные кабинеты" Height="227" Width="525" WindowStartupLocation="CenterScreen" >
+    <Grid Margin="0,0,0,2">
+        <Menu Height="25" VerticalAlignment="Top" Margin="0,0,2,0" >
+            <MenuItem Header="фаил" RenderTransformOrigin="-1.262,0.6">
+                <MenuItem Header="обновить базу данных программы" HorizontalAlignment="Left" Width="210" Click="obnovlenieBazExselfast"/>
+                <MenuItem Header="просмотреть данные в excel" HorizontalAlignment="Left" Width="245" Click="MenuItem_Click_1"/>
+                <Separator/>
+                <MenuItem Header="выход из программы" HorizontalAlignment="Left" Width="210" Click="vixodisprogi"/>
+            </MenuItem>
+            <MenuItem x:Name="new_date" Header="изменить дату" Height="25" Click="new_date_Click">
+                <MenuItem.Background>
+                    <ImageBrush/>
+                </MenuItem.Background>
+            </MenuItem>
+            <MenuItem Header="настройки" >
+                <MenuItem Header="сброс настроек" HorizontalAlignment="Left" Width="270" Click="sbrossetup"/>
+                <MenuItem Header="настройка всех параметров" HorizontalAlignment="Left" Width="270" Click="ssilkaoll"/>
+                <MenuItem Header="изменить ссылку" HorizontalAlignment="Left" Width="270" Click="silka1"/>
+            </MenuItem>
+            <MenuItem Header="о программе" Click="oProgramme" Background="{DynamicResource {x:Static SystemColors.MenuBrushKey}}" BorderBrush="{x:Null}"/>
+        </Menu>
+        <Label x:Name="Label1_Copy" Content="5 Корпус ВятГУ ФЭМ" HorizontalAlignment="Left" Margin="5,29,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Label1_Copy1" Content="Свободные кабинеты" HorizontalAlignment="Left" Margin="25,59,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="_1flor" Margin="25,90,22,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="95"/>
+        <TextBlock x:Name="weekDayTime" HorizontalAlignment="Left" Margin="145,34,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="355" Height="21"/>
+    </Grid>
+</Window>
